@@ -1,5 +1,5 @@
 <h1 align="center">Hello!, I'm syznq</h1>
-<h3 align="center">I code in Python and Luau!</h3>
+<h3 align="center">I can code in Python and Luau! 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syznq&label=Profile%20views&color=0e75b6&style=flat" alt="syznq" /> </p>
 
