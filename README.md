@@ -7,7 +7,7 @@
 
 - 💻 I’m currently learning **LUAU**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: cyotf (DISCORD )</h3>
 <p align="left">
 </p>
 
