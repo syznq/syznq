@@ -1,57 +1,15 @@
-<!-- Header -->
-<div style="text-align: center;">
-  <h1>Hello!, I'm syznq</h1>
-  <div style="margin-top: 20px;">
-    <!-- Technical Skills -->
-    <h3>Technical Skills</h3>
-    <p align="left">
-      <img src="https://komarev.com/ghpvc/?username=syznq&label=Profile%20views&color=0e75b6&style=flat" alt="syznq" />
-    </p>
-  </div>
-</div>
+<h1 align="center">Hello!, I'm syznq</h1>
+<h3 align="center">I can code in Python and Luau! 💻</h3>
 
-<!-- Projects -->
-<div style="text-align: left;">
-  <h3>Current Projects:</h3>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>
-      <a href="https://github.com/syznq/PYTHON" target="_blank">
-        <img src="https://i.imgur.com/8UQFJG4.png" alt="PYTHON Project">
-        PYTHON
-      </a>
-    </li>
-    <!-- For future projects if needed -->
-  </ul>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syznq&label=Profile%20views&color=0e75b6&style=flat" alt="syznq" /> </p>
 
-<!-- Learning -->
-<div style="text-align: left;">
-  <h3>Learning:</h3>
-  <p align="left">
-    <img src="https://i.imgur.com/2uFVY9s.png" alt="LUAU Logo" />
-    LUAU
-  </p>
-</div>
+- 📝 I’m currently working on [PYTHON](https://github.com/syznq/PYTHON)
 
-<!-- Connect -->
-<div style="text-align: left;">
-  <h3>Connect with me:</h3>
-  <p align="left">
-    <a href="https://discord.com/invite/cyotf" target="_blank">Discord</a>
-  </p>
-</div>
+- 💻 I’m currently learning **LUAU**
 
-<!-- Skills -->
-<div style="text-align: left;">
-  <h3>Languages and Tools:</h3>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40">
-      <a href="https://www.gnu.org/software/bash/" target="_blank">Bash</a>
-    </li>
-    <li>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
-      <a href="https://www.python.org" target="_blank">Python</a>
-    </li>
-  </ul>
-</div>
+<h3 align="left">Connect with me on discord: cyotf</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
