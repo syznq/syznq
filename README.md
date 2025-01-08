@@ -1,13 +1,13 @@
-<h1 align="center">Hello!, I'm syznq</h1>
-<h3 align="center">I can code in Python and Luau! 💻</h3>
+<h1 align="center">Hi there, I'm Syznq.</h1>
+<h3 align="center">I have skills in both Python and Lua programming languages.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syznq&label=Profile%20views&color=0e75b6&style=flat" alt="syznq" /> </p>
 
-- 📝 I’m currently working on [PYTHON](https://github.com/syznq/PYTHON)
+- 📝 I'm actively working on a Python project, which can be found at [PYTHON](https://github.com/syznq/PYTHON)
 
-- 💻 I’m currently learning **LUAU**
+- 💻 Currently learning Lua to expand my skillset.
 
-<h3 align="left">Connect with me on discord: cyotf</h3>
+<h3 align="left">You can connect with me on Discord at @xwzsn</h3>
 <p align="left">
 </p>
 
