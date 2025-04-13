@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syznq&label=Profile%20views&color=0e75b6&style=flat" alt="syznq" /> </p>
 
-- 📝 I'm actively working on a Python project, which can be found at [PYTHON](https://github.com/syznq/PYTHON)
-
 - 💻 Currently learning Lua to expand my skillset.
 
-<h3 align="left">You can connect with me on Discord at @xwzsn</h3>
+<h3 align="left">You can connect with me on Discord at @ghoulyz.</h3>
 <p align="left">
 </p>
 
