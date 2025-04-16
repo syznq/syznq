@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Syznq.</h1>
-<h3 align="center">I have skills in both Python and Lua programming languages.</h3>
+<h3 align="center">Below are stuff that I've been testing on or working on.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syznq&label=Profile%20views&color=0e75b6&style=flat" alt="syznq" /> </p>
 
