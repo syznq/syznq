@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syznq&label=Profile%20views&color=0e75b6&style=flat" alt="syznq" /> </p>
 
-- 💻 Currently learning Lua to expand my skillset.
+- 💻 DEVELOPER (Python / Luau)
 
 <h3 align="left">You can connect with me on Discord at @ghoulyz.</h3>
 <p align="left">
