@@ -1,12 +1,12 @@
 <div align="center">
   
-# ABOUT ME
+# ABOUT ME:
 
 Roblox scripter in Luau. All scripts and projects showcased here are created independently by me and me only.
 
 <div align="center">
   
-# LAGUAGES
+# LAGUAGES:
 
 <a href="#">
   <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
@@ -15,7 +15,7 @@ Roblox scripter in Luau. All scripts and projects showcased here are created ind
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 
-# APPLICATIOSN I USE
+# I USE:
 
 <a href="#">
   <img src="https://img.shields.io/badge/Roblox-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white" />
@@ -28,16 +28,13 @@ Roblox scripter in Luau. All scripts and projects showcased here are created ind
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</a>
-<a href="#">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </a>
 
-# CONTACT
+# CONTACT:
 
 <div align="center">
   
