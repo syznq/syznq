@@ -20,10 +20,6 @@ Roblox scripter in Luau. All scripts and projects showcased here are created ind
 <a href="#">
   <img src="https://img.shields.io/badge/Roblox-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white" />
 </a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white" />
-</a>
 <a href="#">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </a>
