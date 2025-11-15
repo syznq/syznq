@@ -48,6 +48,8 @@ All content is created for educational purposes. Users are responsible for compl
   
 *All scripts and projects are independently developed by me.*
 
+![](https://komarev.com/ghpvc/?username=syznq&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:00A2FF,100:3776AB&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70)
 
 </div>
