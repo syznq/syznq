@@ -1,12 +1,12 @@
 <div align="center">
   
-# ABOUT ME:
+# ABOUT ME
 
 Roblox Scripter & Python Scripter
 
 <div align="center">
   
-# LAGUAGES:
+# CODING LANGUAGES
 
 <a href="#">
   <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
@@ -15,7 +15,7 @@ Roblox Scripter & Python Scripter
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 
-# I USE:
+# I USE
 
 <a href="#">
   <img src="https://img.shields.io/badge/Roblox-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white" />
@@ -30,7 +30,7 @@ Roblox Scripter & Python Scripter
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </a>
 
-# CONTACT:
+# CONTACT
 
 <div align="center">
   
