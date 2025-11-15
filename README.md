@@ -2,8 +2,7 @@
   
 # ABOUT ME:
 
-- Roblox Scripter
-- Python Scripter
+Roblox Scripter & Python Scripter
 
 <div align="center">
   
