@@ -1,16 +1,27 @@
-## Hi there 👋
+# vezekk
 
-<!--
-**syznq/syznq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Roblox scripter specializing in Luau scripting. All scripts and projects showcased on this profile are created independently by me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Languages
+- **Luau** 
+- **Python**
+
+## Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syznq&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syznq&layout=compact&theme=dark&hide_border=true)
+
+## Contact
+
+**Discord:** vezekk#0
+
+For script requests, or issues, reach out via Discord.
+
+## Disclaimer
+
+All content is created for educational purposes. Users are responsible for compliance with game terms of service / guidelines.
