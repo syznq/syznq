@@ -1,14 +1,12 @@
-# vezekk
-
-## About Me
+# ABOUT ME
 
 Roblox scripter in Luau. All scripts and projects showcased here are created independently by me and me only.
 
-## Skills
+# SKILLS
 
 <div align="center">
   
-### Languages & Technologies
+## SPECIALIZATION
 
 <a href="#">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
@@ -26,7 +24,11 @@ Roblox scripter in Luau. All scripts and projects showcased here are created ind
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </a>
 
-### Tools & Platforms
+# APPLICATIOSN I USE
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Roblox-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white" />
+</a>
 
 <a href="#">
   <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white" />
@@ -44,7 +46,7 @@ Roblox scripter in Luau. All scripts and projects showcased here are created ind
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </a>
 
-## Contact
+# CONTACT
 
 <div align="center">
   
@@ -54,7 +56,7 @@ For script requests, or script issues, reach out via Discord.
 
 </div>
 
-## Disclaimer
+# DISCLAIMER
 
 All content is created for educational purposes. Users are responsible for compliance with game terms of service / guidelines.
 
