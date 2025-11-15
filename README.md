@@ -2,7 +2,8 @@
   
 # ABOUT ME:
 
-Roblox scripter in Luau. All scripts and projects showcased here are created independently by me and me only.
+- Roblox Scripter
+- Python Scripter
 
 <div align="center">
   
