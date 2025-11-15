@@ -2,26 +2,66 @@
 
 ## About Me
 
-Roblox scripter specializing in Luau scripting. All scripts and projects showcased on this profile are created independently by me.
+Roblox scripter in Luau. All scripts and projects showcased here are created independently by me and me only.
 
 ## Skills
 
-### Languages
-- **Luau** 
-- **Python**
+<div align="center">
+  
+### Languages & Technologies
 
-## Statistics
+<a href="#">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syznq&show_icons=true&theme=dark&hide_border=true)
+### Tools & Platforms
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syznq&layout=compact&theme=dark&hide_border=true)
+<a href="#">
+  <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</a>
 
 ## Contact
 
-**Discord:** vezekk#0
+<div align="center">
+  
+[![Discord](https://img.shields.io/badge/Discord-vezekk%230-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
-For script requests, or issues, reach out via Discord.
+For script requests, or script issues, reach out via Discord.
+
+</div>
 
 ## Disclaimer
 
 All content is created for educational purposes. Users are responsible for compliance with game terms of service / guidelines.
+
+<div align="center">
+  
+*All scripts and projects are independently developed by me.*
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
+
+</div>
