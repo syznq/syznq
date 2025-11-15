@@ -2,8 +2,6 @@
 
 Roblox scripter in Luau. All scripts and projects showcased here are created independently by me and me only.
 
-# SKILLS
-
 <div align="center">
   
 # SPECIALIZATION
