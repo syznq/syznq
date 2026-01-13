@@ -9,7 +9,7 @@
 <a href="https://discord.gg/YOUR_INVITE_LINK_HERE">
   <img src="https://img.shields.io/badge/Discord-vezekk-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
-<a href="https://github.com/vezekk?tab=repositories">
+<a href="https://github.com/syznq?tab=repositories">
   <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
