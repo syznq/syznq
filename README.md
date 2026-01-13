@@ -17,10 +17,6 @@
 
 I am a developer focused on Roblox. I spend my time whenever I'm bored making scripts for games, creating scripts for others to use and inn building my own games. I like to understand how systems work from the inside out :)
 
- Working on: New scripts
- Learning: Python and Roblox Development
-
-
 ### Tools I Use
 
 <div align="center">
