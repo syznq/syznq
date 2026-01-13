@@ -32,24 +32,15 @@ I am a developer focused on Roblox. I spend my time whenever I'm bored making sc
 
 </div>
 
-
-### My Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vezekk&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vezekk&theme=tokyonight&hide_border=true" />
-</div>
-
-
 ### Contact
 
-If you want to talk about scripts, games, or anything else, add me on Discord.
+If you want to talk about scripts, games or anything else, thenn add me on Discord.
 
 **Discord:** vezekk
 
 <div align="center">
 
-### Code is law.
+### Code is Law.
 
 </div>
 
