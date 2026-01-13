@@ -23,7 +23,7 @@ I am a developer focused on Roblox. I spend my time whenever I'm bored making sc
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
-<img src="https://img.shields.io/badge/Roblox_Studio-FF0000?style=for-the-badge&logo=roblox&logoColor=white">
+<img src="https://img.shields.io/badge/Roblox-FF0000?style=for-the-badge&logo=roblox&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
 </div>
